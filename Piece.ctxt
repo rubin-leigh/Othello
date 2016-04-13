@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=color\ row\ col
+comment0.target=Piece(java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Constructs\ a\ Piece\ object\ with\ a\ color\ and\ location\ on\ the\ board\r\n\ @param\ Color\ color\r\n\ @param\ int\ row\r\n\ @param\ int\ col\r\n
+comment1.params=
+comment1.target=void\ changeColor()
+comment1.text=\r\n\ Changes\ the\ color\ of\ the\ Piece\r\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\r\n\ Returns\ the\ color\ of\ the\ Piece\r\n\ @reutrn\ Color\ color\r\n
+comment3.params=
+comment3.target=int\ getRow()
+comment3.text=\r\n\ Returns\ the\ row\ the\ Piece\ is\ located\ in\r\n\ @return\ int\ row\r\n
+comment4.params=
+comment4.target=int\ getCol()
+comment4.text=\r\n\ Returns\ the\ column\ the\ Piece\ is\ located\ in\r\n\ @return\ int\ col\r\n
+comment5.params=
+comment5.target=javax.swing.JLabel\ getPiece()
+comment5.text=\r\n\ Returns\ the\ pic\ of\ the\ Piece\r\n\ @return\ JLabel\ p\r\n
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Space(int,\ int)
+comment0.text=\r\n\ Constructs\ and\ empty\ space\ on\ the\ board\ with\ a\ location\r\n
+comment1.params=p
+comment1.target=void\ addPiece(Piece)
+comment1.text=\r\n\ Adds\ a\ Piece\ to\ the\ Space\ on\ the\ board\r\n\ @param\ Piece\ p\r\n
+comment2.params=
+comment2.target=Piece\ getPiece()
+comment2.text=\r\n\ Returns\ the\ Piece\ in\ the\ space\ or\ null\ if\ there\ is\ no\ Piece\ present\r\n\ @return\ Piece\ p\r\n
+comment3.params=
+comment3.target=boolean\ isFilled()
+comment3.text=\r\n\ Returns\ if\ the\ space\ is\ filled\ with\ a\ Piece\r\n\ @reutrn\ boolean\ filled\r\n
+comment4.params=
+comment4.target=javax.swing.JButton\ getButton()
+comment4.text=\r\n\ Returns\ the\ button\r\n\ @return\ JButton\ b\r\n
+comment5.params=
+comment5.target=void\ resetPiece()
+comment5.text=\r\n\ Resets\ the\ piece\ to\ null\r\n
+numComments=6

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\r\n\ Puts\ together\ the\ JFrame,\ buttons,\ and\ labels\r\n
+comment1.params=
+comment1.target=void\ addActions()
+comment1.text=\r\n\ Adds\ the\ actions\ to\ the\ JButtons\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ checkWinner()
+comment5.text=\r\n\ Check\ to\ see\ if\ the\ game\ is\ over\ and\ if\ someone\ has\ won\r\n
+comment6.params=
+comment6.target=void\ isWinner()
+comment6.text=\r\n\ Forces\ the\ game\ to\ end\ (after\ passing\ twice\ in\ a\ row)\ and\ determines\ a\ winner\r\n
+comment7.params=c\ x\ y
+comment7.target=void\ newPiece(java.lang.String,\ int,\ int)
+comment7.text=\r\n\ Adds\ a\ new\ Piece\ to\ the\ board\r\n\ @param\ String\ color\r\n\ @param\ int\ x\ location\r\n\ @param\ int\ y\ location\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment8.text=\r\n\ Main\ method\r\n
+numComments=9
